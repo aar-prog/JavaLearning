@@ -7,8 +7,8 @@ public class Main {
         Scanner num = new Scanner(System.in);
 
         //declare variables to store input in
-        int number = 0;
-        int number2 = 0;
+        int number;
+        int number2;
 
         //ask for user input second number
         System.out.println("Enter the first integer:");
