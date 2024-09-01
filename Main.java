@@ -23,7 +23,8 @@ public class Main {
         } catch (NumberFormatException e) {
 
             //print error message
-            System.out.println("Invalid input. Please enter a valid integer.");
+            System.out.println("Invalid input. Please enter a valid integer, try again.");
+            return;
         }
 
         //ask for user input second number
@@ -39,7 +40,8 @@ public class Main {
         } catch (NumberFormatException e) {
 
             //print error message
-            System.out.println("Invalid input. Please enter a valid integer.");
+            System.out.println("Invalid input. Please enter a valid integer, try again.");
+            return;
         }
 
         //calculate sum of two inputted integers
