@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e912a1fd-e30a-4aaf-bef7-cd501e21434f" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/../SwitchChallenge/src/SwitchChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SwitchChallenge/src/SwitchChallenge.java" afterDir="false" />
-    </list>
+    <list default="true" id="e912a1fd-e30a-4aaf-bef7-cd501e21434f" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
