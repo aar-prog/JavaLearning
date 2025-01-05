@@ -9,12 +9,12 @@ Course I'm following: [Java Masterclass 2025: 130+ Hours of Expert Lessons](http
 [Introduction](src/HelloWorld.java)
 [Addition](src/Addition.java)
 [Gamerscore](src/Gamerscore.java)
-### Section 5
+### Section 5: Expressions, Statements % More
 [Code Blocks](src/Codeblocks.java)
 [Expressions](src/Keywords.java)
 [Methods](src/MethodOverloadingChallenge.java)
 [SecondsConverter](src/SecondConverter.java)
-### Section 6
+### Section 6: Control Flow
 [Switch statements](src/SwitchChallenge.java)
 
 
